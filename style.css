@@ -1,0 +1,21 @@
+body {
+	background: #BABABA;
+}
+label{
+border-radius: 30px;
+text-decoration: none;
+}
+input{	
+border-radius:30px;
+text-decoration: none; 
+}
+#feedback:focus {
+	border-style: solid;
+	border-color: rgb(0,255,0);
+	outline: none;
+
+}
+#feedback {
+	border-style: solid;
+	border-color: rgb(255,0,0);
+}
